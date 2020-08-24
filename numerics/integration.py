@@ -6,7 +6,7 @@ author:         Joachim Nilsen Grimstad
 
 description:    Collection of some numerical integration routines. 
                 
-license:        GNU General Public License v2.0   
+license:        GNU General Public License v3.0   
                 
 disclaimer:     For the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software.
     
